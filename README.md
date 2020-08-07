@@ -1,1 +1,1 @@
-# CSS-Task10-responsive-layout.
+# CSS-Task10-responsive-layout using mata tag.
